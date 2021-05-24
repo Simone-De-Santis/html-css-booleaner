@@ -1,0 +1,39 @@
+.intestazione{
+    height: 100px;
+    background-color: blue;
+    background-image: url("../img/pattern.png");
+    /* background-repeat: repeat; */
+    background-size:20%;
+}
+.logo{
+    height:50px;
+
+}
+.autor{
+    color: blue;
+}
+.top-table{
+    background-color: blue;
+    color: white;
+}
+
+.alternate-color-table{
+    background-color: aqua;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.importante{
+    background-color: yellow;
+}   
